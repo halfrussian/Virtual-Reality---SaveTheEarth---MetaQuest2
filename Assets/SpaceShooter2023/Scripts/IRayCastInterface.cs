@@ -1,0 +1,4 @@
+interface IRaycastInterface
+{
+    void HitByrayCast();
+}
